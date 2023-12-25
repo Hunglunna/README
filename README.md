@@ -37,10 +37,10 @@ width="800"  height="3">
 
 <p align="center"> 
 &nbsp; <a href="https://www.instagram.com/tuan.dzz_1/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/bubbles/100/messages-mac.png" width="100" /></a> 
-&nbsp; <a href="https://www.tiktok.com/@hunglunna" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/tiktok.png" width="100" /></a>    
-&nbsp; <a href="https://github.com/Hunglunna" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
-&nbsp; <a href="https://facebook.com/v.hunglunna" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
-&nbsp; <a href="https://zaloapp.com/qr/p/1n623ha9ih4be?src=qr" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/zalo.png"  width="100" /></a>
+&nbsp; <a href="https://www.tiktok.com/@hunglunna" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/100/tiktok--v2.png" width="100" /></a>    
+&nbsp; <a href="https://github.com/Hunglunna" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/100/telegram-app.png" width="100" /></a>
+&nbsp; <a href="https://facebook.com/v.hunglunna" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/100/facebook-new.png"  width="100" /></a>
+&nbsp; <a href="https://zaloapp.com/qr/p/1n623ha9ih4be?src=qr" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/doodle/100/zalo.png"  width="100" /></a>
 </p>
 
 
