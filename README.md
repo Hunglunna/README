@@ -35,9 +35,13 @@ width="800"  height="3">
 
 ```
 
-<a href="https://github.com/MUMIT-404-CYBER"><img align="left" title="Github" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" /></a>
-<a href="https://fb.com/Oops.errors"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
-<a href="https://www.instagram.com/mumit_islam"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
+<p align="center"> 
+&nbsp; <a href="https://www.instagram.com/tuan.dzz_1/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="100" /></a> 
+&nbsp; <a href="https://www.tiktok.com/@tuandz.1407" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/jcWPUix.png" width="100" /></a>    
+&nbsp; <a href="https://github.com/tuandz2250" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
+&nbsp; <a href="https://www.facebook.com/TuannDzz123/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
+&nbsp; <a href="mailto:kenyrm2250@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
+</p>
 
 
 <div align="center">
