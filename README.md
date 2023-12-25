@@ -40,7 +40,7 @@ width="800"  height="3">
 &nbsp; <a href="https://www.tiktok.com/@tuandz.1407" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/tiktok.png" width="100" /></a>    
 &nbsp; <a href="https://github.com/tuandz2250" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
 &nbsp; <a href="https://www.facebook.com/TuannDzz123/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
-&nbsp; <a href="mailto:kenyrm2250@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
+&nbsp; <a href="https://zaloapp.com/qr/p/1n623ha9ih4be?src=qr" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/zalo.png"  width="100" /></a>
 </p>
 
 
